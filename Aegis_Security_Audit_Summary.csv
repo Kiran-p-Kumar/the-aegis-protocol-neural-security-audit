@@ -1,0 +1,11 @@
+Timestamp,User_ID,IP_Address,Action,File_Name,File_Size_MB,Department,Sensitivity_Score,Hour,Is_Night_Shift,Anomaly_Label,Target,Risk_Probability,Risk_Level
+2026-02-19 23:18:18,EMP_729,54.65.129.6,UPLOAD,Internal_Strategy.pptx,66.51,,2,23,1,-1,1,0.99999774,High Risk
+2026-02-03 23:54:38,EMP_277,69.4.155.20,DELETE,Internal_Strategy.pptx,179.08,Marketing,2,23,1,-1,1,0.99999774,High Risk
+2026-02-08 23:51:45,EMP_990,71.93.207.29,LOGIN,Internal_Strategy.pptx,154.62,IT,2,23,1,-1,1,0.99999774,High Risk
+2026-01-20 23:54:28,EMP_252,193.194.226.146,UPLOAD,Internal_Strategy.pptx,68.79,Marketing,2,23,1,-1,1,0.99999774,High Risk
+2026-01-10 23:08:56,EMP_519,120.221.95.40,VIEW,Internal_Strategy.pptx,175.45,HR,2,23,1,-1,1,0.99999774,High Risk
+2026-01-25 23:16:36,EMP_474,186.126.228.22,DELETE,Internal_Strategy.pptx,63.2,Finance,2,23,1,-1,1,0.99999774,High Risk
+2026-01-05 23:13:12,EMP_416,49.31.12.84,UPLOAD,Internal_Strategy.pptx,74.41,HR,2,23,1,-1,1,0.99999774,High Risk
+2026-02-11 23:48:59,EMP_976,4.207.11.115,DELETE,Internal_Strategy.pptx,171.67,,2,23,1,-1,1,0.99999774,High Risk
+2026-02-07 23:41:13,EMP_705,66.210.155.190,DOWNLOAD,Internal_Strategy.pptx,59.34,Marketing,2,23,1,-1,1,0.99999774,High Risk
+2026-01-23 23:45:38,EMP_538,11.161.20.164,UPLOAD,Internal_Strategy.pptx,34.28,Finance,2,23,1,-1,1,0.99999774,High Risk
